@@ -3,13 +3,11 @@ Weekly hands-on submissions for Cognizant Digital Nurture 4.0 - Java FSE Deep Sk
 Each folder includes thebpractical tasks, coding exercises, andd assignments for that specific week.
 
 # 👩‍💻 About Me #
----------------------
 * __Name:__ Subalakshmi A
 * __College:__ Panimalar Engineering College
 * __Batch:__ 2022 - 2026
 
 # 📌 Program Overview #
-------------------------
 * __Program:__ Digital Nurture 4.0
 * __Track:__ Java Full Stack Engineer (FSE)
 * __Duration:__ 8 Weeks
@@ -17,7 +15,6 @@ Each folder includes thebpractical tasks, coding exercises, andd assignments for
 * __Company:__ Cognizant Technology Solutions
 
 # ✅ Modules Covered #
-----------------------
 1. Desiggn Patterns and Principles
 2. Data Structures and Algorithms
 3. PL/SQL Programming
@@ -36,5 +33,4 @@ Each folder includes thebpractical tasks, coding exercises, andd assignments for
 16. Gen AI Fundamentals
 
 # 📫 Contact #
----------------
 * __Email:__ suba14lakshmi@gmail.com
