@@ -2,7 +2,7 @@ Weekly hands-on submissions for Cognizant Digital Nurture 4.0 - Java FSE Deep Sk
 
 Each folder includes thebpractical tasks, coding exercises, andd assignments for that specific week.
 
-#👩‍💻 About Me
+👩‍💻 About Me
 ---------------------
 * __Name:__ Subalakshmi A
 * __College:__ Panimalar Engineering College
