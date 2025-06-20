@@ -1,1 +1,2 @@
 # Deepskilling
+Weekly
