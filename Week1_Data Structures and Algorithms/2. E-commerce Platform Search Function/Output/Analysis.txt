@@ -1,0 +1,26 @@
+Big O Notation:
+🔸It is used to describe the performance (time or space complexity) of an algorithm in terms of input size (n). It helps compare algorithms efficiently.
+
+Search Scenarios:
+🔸 Best Case: The shortest time the algorithm takes (e.g., first match in search).  
+🔸 Average Case: The expected time over all possible inputs.  
+🔸 Worst Case: The maximum time it takes (e.g., element not present).  
+
+Search Time Complexities:
+
+| Search Type       | Best Case | Average Case  | Worst Case  |
+|------------------ |-----------|---------------|-------------|
+| Linear Search     | O(1)      | O(n)          | O(n)        |
+| Binary Search     | O(1)      | O(log n)      | O(log n)    |
+
+Implemented Search Algorithms:
+🔸 Linear Search: Searches one by one in an unsorted array.  
+🔸 Binary Search: Searches in a sorted array using divide and conquer.  
+
+Analysis:
+🔸 Linear Search Time Complexity: O(n)  
+🔸 Binary Search Time Complexity: O(log n)  
+
+Most Suitable Algorithm:
+🔸 Binary Search is more suitable for large, sorted data because it significantly reduces the number of comparisons.  
+🔸 Linear Search is simpler and works on unsorted data but becomes inefficient as data size increases.

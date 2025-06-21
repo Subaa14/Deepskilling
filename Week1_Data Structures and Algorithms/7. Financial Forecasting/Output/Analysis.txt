@@ -1,0 +1,22 @@
+Financial Forecasting
+
+Recursive Algorithms:
+🔸 Recursion is a programming technique where a method calls itself to solve a smaller version of the same problem.
+🔸 It simplifies problems that can be broken down into similar subproblems, such as financial forecasting over time.
+
+Setup:
+🔸 A recursive method is created to calculate the future value based on:
+   • Current value
+   • Annual growth rate
+   • Number of years
+
+Implementation:
+🔸 A recursive algorithm is used where:
+   • Base Case: If years == 0, return the current value.
+   • Recursive Case: Multiply the current value by (1 + growthRate) and call the method again with (years - 1).
+
+Analysis:
+🔸 Time Complexity: O(n), where n is the number of years. Each recursive call handles one year.
+🔸 Optimization:
+   • For large inputs, recursion can be optimized by converting to an iterative approach.
+   • Memoization or dynamic programming can be used to store intermediate results and avoid repeated computation.
