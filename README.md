@@ -15,7 +15,7 @@ Each folder includes the practical tasks, coding exercises, and assignments for 
 * __Company:__ Cognizant Technology Solutions
 
 # ✅ Modules Covered #
-1. Desiggn Patterns and Principles
+1. Design Patterns and Principles
 2. Data Structures and Algorithms
 3. PL/SQL Programming
 4. Test Driven Development and Logging Framework
